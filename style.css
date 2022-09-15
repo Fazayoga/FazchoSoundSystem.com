@@ -241,6 +241,11 @@ h3 {
         display: block;
     }
 
+    .footer-section {
+        width: 100%;
+        height: auto;
+    }
+
     section img {
         display: block;
         width: 100%;
