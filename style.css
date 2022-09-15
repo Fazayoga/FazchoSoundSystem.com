@@ -26,6 +26,7 @@ body {
 
 .menu {
     float: right;
+    margin-right: 20px;
     position: sticky;
     position: -webkit-sticky;
     top: 0px;
