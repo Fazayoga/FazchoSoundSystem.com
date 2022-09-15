@@ -26,9 +26,6 @@ body {
 
 .menu {
     float: right;
-    position: sticky;
-    position: -webkit-sticky; 
-    top: 0;
 }
 
 nav {
