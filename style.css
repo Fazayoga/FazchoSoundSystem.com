@@ -45,6 +45,9 @@ nav {
 }
 
 nav ul {
+    position: sticky;
+    position: -webkit-sticky; 
+    top: 0;
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -52,10 +55,16 @@ nav ul {
 }
 
 nav ul li {
+    position: sticky;
+    position: -webkit-sticky; 
+    top: 0;
     float: left;
 }
 
 nav ul li a {
+    position: sticky;
+    position: -webkit-sticky; 
+    top: 0;
     color: black;
     font-weight: bold;
     text-align: center;
