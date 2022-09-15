@@ -34,6 +34,7 @@ nav {
     display: flex;
     line-height: 80px;
     position: sticky;
+    position: -webkit-sticky; 
     top: 0;
     background: #FFFFFF;
     z-index: 1;
@@ -170,6 +171,7 @@ p {
 
 .kartu-partner img {
     width: 250px;
+    text-align: center;;
     border-radius: 50%;
 }
 
