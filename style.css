@@ -2,6 +2,7 @@
     text-decoration: none;
     margin: 0px;
     padding: 0px;
+    box-sizing: border-box;
 }
 
 body {
@@ -211,6 +212,10 @@ h3 {
 }
 
 @media screen and (max-width: 991.98px) {
+    .header {
+        width: 100%;
+    }
+
     .wrapper {
         width: 90%;
     }
