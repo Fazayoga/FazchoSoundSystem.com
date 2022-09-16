@@ -209,6 +209,8 @@ h3 {
 @media screen and (max-width: 991.98px) {
     .header {
         width: 100%;
+        height: auto;
+        margin: 0 auto 0 auto;
     }
     
     .menu {
