@@ -201,6 +201,7 @@ p {
     width: 20%;
     height: auto;
     margin: 0 auto ;
+    padding: auto;
 }
 
 h3 {
@@ -294,6 +295,7 @@ h3 {
         width: 20%;
         height: auto;
         margin: 0 auto 0 auto;
+        padding: auto;
     }
 
     section img {
