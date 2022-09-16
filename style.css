@@ -196,6 +196,7 @@ p {
     display: flex;
     flex-wrap: wrap;
     margin: auto;
+    padding: 10px;
 }
 
 .footer-section {
