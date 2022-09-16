@@ -200,7 +200,7 @@ p {
 .footer-section {
     width: 20%;
     height: auto;
-    margin: 0 auto ;
+    margin: 0 auto 0 auto;
     padding: auto;
 }
 
