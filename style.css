@@ -221,6 +221,7 @@ h3 {
 
     .wrapper {
         width: 93%;
+        margin: auto;
     }
 
     .logo a {
