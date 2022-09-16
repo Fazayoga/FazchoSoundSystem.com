@@ -226,7 +226,7 @@ h3 {
     }
     
     .menu {
-        width: 100%;
+        width: auto;
         height: auto;
         margin: 0 auto 0 auto;
     }
