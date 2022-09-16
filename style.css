@@ -234,7 +234,7 @@ h3 {
     .menu a{
         width: 100%;
         height: auto;
-        padding: 0 auto 0 auto;
+        padding: 10px;
     }
 
     .menu {
