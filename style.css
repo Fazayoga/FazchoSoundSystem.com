@@ -236,6 +236,7 @@ h3 {
     .logo {
         width: 100%;
         height: auto;
+        margin: 0 auto 0 auto;
     }
 
     .logo a {
@@ -243,7 +244,7 @@ h3 {
         width: 100%;
         height: auto;
         text-align: center;
-        margin: auto;
+        margin: 0 auto 0 auto;
     }
 
     nav .menu {
