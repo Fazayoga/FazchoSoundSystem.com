@@ -210,6 +210,12 @@ h3 {
     .header {
         width: 100%;
     }
+    
+    .menu {
+        width: 100%;
+        height: auto;
+        margin: 0 auto 0 auto;
+    }
 
     .wrapper {
         width: 90%;
@@ -218,7 +224,9 @@ h3 {
     .logo a {
         display: block;
         width: 100%;
+        height: auto;
         text-align: center;
+        margin: 0 auto 0 auto;
     }
 
     nav .menu {
