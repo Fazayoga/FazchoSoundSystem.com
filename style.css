@@ -243,13 +243,13 @@ h3 {
 
     .footer-section {
         width: 20%;
-        height: auto;
+        height: 100%;
     }
 
     section img {
         display: block;
         width: 100%;
-        height: auto;
+        height: 100%;
     }
 
     .kartu-tutor {
@@ -257,6 +257,10 @@ h3 {
     }
 
     .kartu-partner {
+        width: 100%;
+    }
+
+    .partner-list {
         width: 100%;
     }
 }
