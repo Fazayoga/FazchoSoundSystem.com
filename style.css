@@ -25,6 +25,11 @@ body {
     position: relative;
 }
 
+.logo {
+    width: 100%;
+    height: auto;
+}
+
 .logo img {
     width: 100%;
     height: auto;
@@ -226,6 +231,11 @@ h3 {
     .wrapper {
         width: 93%;
         margin: auto;
+    }
+
+    .logo {
+        width: 100%;
+        height: auto;
     }
 
     .logo a {
