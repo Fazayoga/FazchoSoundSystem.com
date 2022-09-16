@@ -292,11 +292,16 @@ h3 {
         margin: 0 auto 0 auto;
     }
 
+    .footer{
+        padding: 10px;
+        margin: auto;
+    }
+
     .footer-section {
         width: 20%;
         height: auto;
         margin: 0 auto 0 auto;
-        padding: auto;
+        padding: 10px;
     }
 
     section img {
