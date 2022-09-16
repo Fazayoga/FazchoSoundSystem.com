@@ -241,15 +241,22 @@ h3 {
         display: block;
     }
 
+    #contact {
+        width: 100%;
+        height: auto;
+    }
+
     .footer-section {
         width: 20%;
-        height: 100%;
+        height: auto;
+        margin: auto;
     }
 
     section img {
         display: block;
         width: 100%;
         height: auto;
+        margin: auto;
     }
 
     .kartu-tutor {
