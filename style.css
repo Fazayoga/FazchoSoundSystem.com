@@ -182,11 +182,10 @@ p {
 }
 
 #contact {
-    width: 100%;
+    width: auto;
     height: auto;
     background: #dedede;
-    padding: 50px 0px 50px 0px;
-    margin: auto;
+    padding: 50px 0px;
 }
 
 .footer {
@@ -196,14 +195,12 @@ p {
     display: flex;
     flex-wrap: wrap;
     margin: auto;
-    padding: 10px;
 }
 
 .footer-section {
     width: 20%;
     height: auto;
-    margin: 0 auto 0 auto;
-    padding: auto;
+    margin: 0 auto;
 }
 
 h3 {
@@ -290,7 +287,7 @@ h3 {
 
     #contact {
         width: 100%;
-        margin: 0 auto 0 auto;
+        margin: 0 auto;
     }
 
     .footer{
@@ -301,8 +298,7 @@ h3 {
     .footer-section {
         width: 20%;
         height: auto;
-        margin: 0 auto 0 auto;
-        padding: 10px;
+        margin: 0 auto;
     }
 
     section img {
@@ -310,10 +306,6 @@ h3 {
         width: 100%;
         height: auto;
         margin: auto;
-    }
-
-    .kartu-tutor {
-        width: 100%;
     }
 
     .kartu-partner {
